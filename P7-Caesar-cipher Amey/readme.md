@@ -1,0 +1,31 @@
+Hello I am Amey Desai, I am learning python language and building projects from Beginner level to advance level
+
+# Aim of the project:- To build a caesar-cipher project
+
+# Requirements:- Any python IDE and Knowledge of Function Parameters
+
+# Introduction:- 
+The Caesar Cipher technique is one of the earliest and simplest method of encryption technique. It’s simply a type of substitution cipher, i.e., each letter of a given text is replaced by a letter some fixed number of positions down the alphabet. For example with a shift of 1, A would be replaced by B, B would become C, and so on. 
+
+The method is apparently named after Julius Caesar, who apparently used it to communicate with his officials. 
+Thus to cipher a given text we need an integer value, known as shift which indicates the number of position each letter of the text has been moved down. 
+
+The encryption can be represented using modular arithmetic by first transforming the letters into numbers, according to the scheme, A = 0, B = 1,…, Z = 25. Encryption of a letter by a shift n can be described mathematically as. 
+
+# Example Input :- 
+
+Type 'encode' to encrypt, type 'decode' to decrypt:
+encode
+Type your message:
+Hello Friends
+Type the shift number:
+4
+
+# Example Output :-
+
+Here's the encoded result: lipps jvmirhw
+
+Type 'yes' if you want to go again. Otherwise type 'no'.
+no
+
+Goodbye
